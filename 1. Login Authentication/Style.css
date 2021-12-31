@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-family: serif;
+    background-image: url(background.jpg);
+}
+
+div {
+    width: 300px;
+    height: 250px;
+    margin-left: 36%;
+    margin-top: 200px;
+    opacity: 0.5;
+    border-radius: 15px;
+    background-color: red;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+table {
+    position: absolute;
+    color: white;
+}
